@@ -1,0 +1,25 @@
+sv-SE:
+  apiUnsupported: "Din version av lichess-appen är för gammal! Var god uppdatera till den senaste versionen."
+  apiDeprecated: "Uppgradera gratis till den senaste Lichess-appen! Stödet för den här versionen kommer att upphöra den %s."
+  comments: "Kommentarer"
+  gameInformation: "Parti-information"
+  home: "Startsida"
+  lastScore: "Senaste resultat: %s"
+  playerisInvitingYou: "%s bjuder in dig"
+  unsupportedVariant: "Varianten %s är inte stödd i denna version"
+  notesSynchronizationHasFailed: "Synkning av anteckningar med Lichess har misslyckats, försök igen senare."
+  vibrateOnGameEvents: "Vibrera vid partihändelser"
+  offline: "Frånkopplad"
+  otbUseSymmetricPieces: "Använd symmetriska pjäser" #Setting for offline over-the-board games
+  otbFlipPiecesAndInfoAfterMove: "Vänd pjäser och motståndarinfo efter varje drag" #Setting for offline over-the-board games
+  settingsClockPosition: "Klockans position" #Determines whether each player's time is shown on the left or right side of the board
+  positionRight: "Höger" #As in "right-hand side"; not truth, morality, or law
+  positionLeft: "Vänster" #As in "left-hand side"; not political or past participle
+  landscapeBoardSide: "Brädskärmens sida (i liggande läge)" #Side of the screen the board appears on in analysis or online rounds when the device is in landscape mode.
+  toggleSound: "Växla ljud" #Settings to enable/disable sound
+  overTheBoard: "Spela 2 på samma enhet"
+  sharePgn: "Dela PGN"
+  shareGameUrl: 'Dela parti-URL'
+  playOnline: "Spela online"
+  playOffline: "Spela offline"
+  bgThemeSyncWithSystem: "Synkronisera med systemet" #Settings to synchronise background theme (dark or light) with the operating system (to support daynight automatic switch)

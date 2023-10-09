@@ -1,0 +1,25 @@
+gsw-CH:
+  apiUnsupported: "Dini Version vode Lichess-App isch veraltet! Bitte lad dir di chostälosi neu Version abe."
+  apiDeprecated: "Upgrade choschtelos uf di neuschte Lichess-App! d'Underschtützig für dini Version wird %s beändet."
+  comments: "Kommentär"
+  gameInformation: "Schpiel Info"
+  home: "Startsite"
+  lastScore: "Aktuellä Punktestand: %s"
+  playerisInvitingYou: "%s ladet dich i"
+  unsupportedVariant: "Variante %s wird in dere Version nöd underschtützt"
+  notesSynchronizationHasFailed: "D'Synchronisation vu Amerkige mit Lichess isch fählgschlage, bitte versuechs spöter nomal."
+  vibrateOnGameEvents: "Bi Schpielereignis vibriere"
+  offline: "Offline"
+  otbUseSymmetricPieces: "benutz symmetrischi Figure" #Setting for offline over-the-board games
+  otbFlipPiecesAndInfoAfterMove: "Figurä und Gegnerinfo nochem Zug flippä" #Setting for offline over-the-board games
+  settingsClockPosition: "Position vode Uhr" #Determines whether each player's time is shown on the left or right side of the board
+  positionRight: "Rächts" #As in "right-hand side"; not truth, morality, or law
+  positionLeft: "Linggs" #As in "left-hand side"; not political or past participle
+  landscapeBoardSide: "Bildschirmsite vom Brätt (im Querformat)" #Side of the screen the board appears on in analysis or online rounds when the device is in landscape mode.
+  toggleSound: "Ton i/usschalte" #Settings to enable/disable sound
+  overTheBoard: "Schpill offline gäge en Mänsch"
+  sharePgn: "PGN teilä"
+  shareGameUrl: 'Partiä-URL teilä'
+  playOnline: "Online schpille"
+  playOffline: "Offline schpille"
+  bgThemeSyncWithSystem: "Mit em Syschtem synchronisiere" #Settings to synchronise background theme (dark or light) with the operating system (to support daynight automatic switch)

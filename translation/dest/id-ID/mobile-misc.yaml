@@ -1,0 +1,25 @@
+id-ID:
+  apiUnsupported: "Versi aplikasi lichess Anda telalu tua! Silakan perbarui secara gratis ke versi terbaru."
+  apiDeprecated: "Perbarui secara gratis ke aplikasi lichess terbaru! Dukungan versi ini akan dihentikan pada %s."
+  comments: "Komentar"
+  gameInformation: "Informasi permainan"
+  home: "Beranda"
+  lastScore: "Skor terakhir: %s"
+  playerisInvitingYou: "%s mengundang Anda"
+  unsupportedVariant: "Versi ini tidak mendukung varian %s"
+  notesSynchronizationHasFailed: "Sinkronisasi catatan dengan lichess telah gagal, silakan ulangi kembali."
+  vibrateOnGameEvents: "Getaran pada acara game"
+  offline: "Tidak Aktif"
+  otbUseSymmetricPieces: "Gunakan bidak simetris" #Setting for offline over-the-board games
+  otbFlipPiecesAndInfoAfterMove: "Balik bidak dan info lawan setelah bergerak" #Setting for offline over-the-board games
+  settingsClockPosition: "Posisi jam" #Determines whether each player's time is shown on the left or right side of the board
+  positionRight: "Kanan" #As in "right-hand side"; not truth, morality, or law
+  positionLeft: "Kiri" #As in "left-hand side"; not political or past participle
+  landscapeBoardSide: "Sisi layar papan (dalam mode lanskap)" #Side of the screen the board appears on in analysis or online rounds when the device is in landscape mode.
+  toggleSound: "Aktifkan/nonaktifkan suara" #Settings to enable/disable sound
+  overTheBoard: "Di atas papan"
+  sharePgn: "Bagikan PGN"
+  shareGameUrl: 'Bagikan URL permainan'
+  playOnline: "Main Online"
+  playOffline: "Main Offline"
+  bgThemeSyncWithSystem: "Sinkronkan dengan sistem" #Settings to synchronise background theme (dark or light) with the operating system (to support daynight automatic switch)

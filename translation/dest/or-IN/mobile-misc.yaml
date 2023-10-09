@@ -1,0 +1,25 @@
+or-IN:
+  apiUnsupported: "ଆପଣଙ୍କ lichess ଆପ୍ ର ସଂସ୍କରଣ ବହୁତ ପୁରୁଣା ଅଟେ! ଦୟାକରି ନବୀନତ୍ତମ ସଂସ୍କରଣକୁ ମାଗଣାରେ ଅପଗ୍ରେଡ୍ କରନ୍ତୁ।"
+  apiDeprecated: "ନବୀନତ୍ତମ lichess ଆପ୍ ପାଇଁ ମାଗଣାରେ ଅପଗ୍ରେଡ୍ କରନ୍ତୁ! ଏହି ସଂସ୍କରଣ ପାଇଁ ସମର୍ଥନ %s ରେ ସମାପ୍ତ ହେବ।"
+  comments: "ମନ୍ତବ୍ୟଗୁଡ଼ିକ"
+  gameInformation: "ଖେଳ ସୂଚନା"
+  home: "ଗୃହ"
+  lastScore: "ଗତ ସ୍କୋର୍: %s"
+  playerisInvitingYou: "%s ଆପଣଙ୍କୁ ନିମନ୍ତ୍ରଣ କରୁଛନ୍ତି"
+  unsupportedVariant: "ଏହି ସଂସ୍କରଣରେ %s variant ଟି ସମର୍ଥିତ ନୁହେଁ"
+  notesSynchronizationHasFailed: "Lichess ସହିତ ନୋଟ୍ ସିଙ୍କ୍ରୋନାଇଜେସନ୍ ବିଫଳ ହୋଇଛି, ଦୟାକରି ପରେ ଚେଷ୍ଟା କରନ୍ତୁ।"
+  vibrateOnGameEvents: "ଖେଳ ଇଭେଣ୍ଟଗୁଡ଼ିକରେ କମ୍ପନ"
+  offline: "ଅଫଲାଇନ୍"
+  otbUseSymmetricPieces: "ସମଞ୍ଜସ ଗୋଟି ବ୍ୟବହାର କରିବା" #Setting for offline over-the-board games
+  otbFlipPiecesAndInfoAfterMove: "ଚାଲ୍ ଚାଲିବା ପରେ ଗୋଟି ଏବଂ ପ୍ରତିଦ୍ୱନ୍ଦ୍ୱୀ ସୂଚନା ଫ୍ଲିପ୍ କରିବା" #Setting for offline over-the-board games
+  settingsClockPosition: "ଘଣ୍ଟା ଅବସ୍ଥାନ" #Determines whether each player's time is shown on the left or right side of the board
+  positionRight: "ଡାହାଣ" #As in "right-hand side"; not truth, morality, or law
+  positionLeft: "ବାମ" #As in "left-hand side"; not political or past participle
+  landscapeBoardSide: "ବୋର୍ଡ ସ୍କ୍ରିନ୍ ପାର୍ଶ୍ୱ (ଲ୍ୟାଣ୍ଡସ୍କେପ୍ ମୋଡ୍ ରେ)" #Side of the screen the board appears on in analysis or online rounds when the device is in landscape mode.
+  toggleSound: "ଧ୍ଵନି ଟୋଗଲ୍ କରନ୍ତୁ" #Settings to enable/disable sound
+  overTheBoard: "ବୋର୍ଡ ଉପରେ"
+  sharePgn: "PGN ଅଂଶୀଦାର କରନ୍ତୁ"
+  shareGameUrl: 'ଖେଳ URL ଅଂଶୀଦାର କରନ୍ତୁ'
+  playOnline: "ଅନଲାଇନ୍ ଖେଳନ୍ତୁ"
+  playOffline: "ଅଫଲାଇନ୍ ଖେଳନ୍ତୁ"
+  bgThemeSyncWithSystem: "ସିଷ୍ଟମ୍ ସହ ଖାପ ଖୁଆଇବା" #Settings to synchronise background theme (dark or light) with the operating system (to support daynight automatic switch)

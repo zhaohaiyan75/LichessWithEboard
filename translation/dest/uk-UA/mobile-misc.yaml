@@ -1,0 +1,25 @@
+uk-UA:
+  apiUnsupported: "Your version of lichess app is too old! Please upgrade for free to the latest version."
+  apiDeprecated: "Оновлення до останньої версії Lichess безкоштовне! Підтримка поточної версії буде зупинена"
+  comments: "Коментарі"
+  gameInformation: "Інформація про гру"
+  home: "Головна"
+  lastScore: "Ваш результат: %s"
+  playerisInvitingYou: "%s запрошує вас"
+  unsupportedVariant: "Варіант %s не підтримується у цій версії"
+  notesSynchronizationHasFailed: "Помилка синхронізації нотаток з lichess, будь ласка, спробуйте пізніше."
+  vibrateOnGameEvents: "Вібрувати при ігрових подіях"
+  offline: "Офлайн"
+  otbUseSymmetricPieces: "Використовувати симетричні фігури" #Setting for offline over-the-board games
+  otbFlipPiecesAndInfoAfterMove: "Перевертати фігури та інформацію про суперника після ходу" #Setting for offline over-the-board games
+  settingsClockPosition: "Розташування годинника" #Determines whether each player's time is shown on the left or right side of the board
+  positionRight: "Праворуч" #As in "right-hand side"; not truth, morality, or law
+  positionLeft: "Ліворуч" #As in "left-hand side"; not political or past participle
+  landscapeBoardSide: "Відображення дошки (в альбомній орієнтації)" #Side of the screen the board appears on in analysis or online rounds when the device is in landscape mode.
+  toggleSound: "Увімк./вимк. звук" #Settings to enable/disable sound
+  overTheBoard: "За дошкою"
+  sharePgn: "Поділитись PGN"
+  shareGameUrl: 'Поділитись посиланням на гру'
+  playOnline: "Грати онлайн"
+  playOffline: "Грати офлайн"
+  bgThemeSyncWithSystem: "Синхронізація з системою" #Settings to synchronise background theme (dark or light) with the operating system (to support daynight automatic switch)
