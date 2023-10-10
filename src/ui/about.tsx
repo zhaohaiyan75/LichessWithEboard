@@ -44,7 +44,7 @@ export default {
             <li>{externalLink('Help', 'https://github.com/zhaohaiyan75/LichessWithEboard/wiki/Help')}</li>
             <li>{externalLink('About', 'https://github.com/zhaohaiyan75/LichessWithEboard/wiki')}</li>
           </ul>
-
+          
       </div>
     )
   }
