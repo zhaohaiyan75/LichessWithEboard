@@ -211,6 +211,9 @@ function renderLinks(user?: Session) {
         <span className="fa fa-search" />{i18n('advancedSearch')}
       </li> : null
       }
+      <li className="side_link" data-action="eboardBluetooth">
+        <span className="fa fa-delicious"/>{i18n('eboard')}
+      </li>
       <li className="sep_link">
         {i18n('playOffline')}
       </li>

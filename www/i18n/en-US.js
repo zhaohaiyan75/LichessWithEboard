@@ -1284,5 +1284,6 @@ export default {
   "shareGameUrl": "Share game URL",
   "playOnline": "Play online",
   "playOffline": "Play offline",
-  "bgThemeSyncWithSystem": "Sync with System"
+  "bgThemeSyncWithSystem": "Sync with System",
+  "eboard": "Electronic board"
 }

@@ -38,9 +38,11 @@ export default {
           <ul className="about_links">
             <li>{externalLink('Github', 'https://github.com/zhaohaiyan75/LichessWithEboard')}</li>
             <li>{externalLink('Contribute', 'https://github.com/zhaohaiyan75/LichessWithEboard/graphs/contributors')}</li>
-            <li>{externalLink('Contact', 'https://github.com/zhaohaiyan75/LichessWithEboard/blob/main/CONTACT.md')}</li>
-            <li>{externalLink('Terms of Service', 'https://github.com/zhaohaiyan75/LichessWithEboard/blob/main/TERMSOFSERVICE.md')}</li>
-            <li>{externalLink('Privacy Policy', 'https://github.com/zhaohaiyan75/LichessWithEboard/blob/main/PRIVACYPOLICY.md')}</li>
+            <li>{externalLink('Contact', 'https://github.com/zhaohaiyan75/LichessWithEboard/wiki/Contact')}</li>
+            <li>{externalLink('Terms of Service', 'https://github.com/zhaohaiyan75/LichessWithEboard/wiki/Terms-of-Service')}</li>
+            <li>{externalLink('Privacy Policy', 'https://github.com/zhaohaiyan75/LichessWithEboard/wiki/Privacy-Policy')}</li>
+            <li>{externalLink('Help', 'https://github.com/zhaohaiyan75/LichessWithEboard/wiki/Help')}</li>
+            <li>{externalLink('About', 'https://github.com/zhaohaiyan75/LichessWithEboard/wiki')}</li>
           </ul>
 
       </div>

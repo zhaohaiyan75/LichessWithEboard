@@ -1225,5 +1225,6 @@ export default {
   "shareGameUrl": "分享棋局链接",
   "playOnline": "在线下棋",
   "playOffline": "离线下棋",
-  "bgThemeSyncWithSystem": "跟随系统"
+  "bgThemeSyncWithSystem": "跟随系统",
+  "eboard": "电子棋盘"
 }
